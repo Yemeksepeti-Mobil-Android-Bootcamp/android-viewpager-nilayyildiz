@@ -41,7 +41,7 @@ class SplashFragment : Fragment() {
             }
 
             override fun onAnimationEnd(animation: Animator?) {
-                Toast.makeText(context, "End", Toast.LENGTH_SHORT).show()
+
             }
 
             override fun onAnimationCancel(animation: Animator?) {
